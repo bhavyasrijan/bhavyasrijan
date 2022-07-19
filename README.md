@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhavyasrijan
-- 👀 I’m interested in AI ML
-- 🌱 I’m currently learning c programming
+- 👀 I’m interested in Blockchain,AI ML and Web 3.0.
+- 🌱 I’m currently learning Full Stack Web Development and intermediate Data Structures and Algorithms.
 - 📫 How to reach me - upg1963@gmail.com
 
 <!---
